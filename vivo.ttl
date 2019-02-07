@@ -555,7 +555,7 @@ geopolitical:countryAreaTotal
 core:Librarian  a        owl:Class ;
         rdfs:label       "Librarian"@en ;
         rdfs:subClassOf  <http://xmlns.com/foaf/0.1/Person> ;
-        obo:IAO_0000115  "A person working in a position of librarian or information professional, or academic or technical expert in support of providing information services or materials."^^xsd:string .
+        obo:IAO_0000115  "A usually pretty nice person working in a position of librarian or information professional, or academic or technical expert in support of providing information services or materials."^^xsd:string .
 
 obo:BFO_0000054  a        owl:ObjectProperty ;
         rdfs:domain       obo:BFO_0000017 ;
